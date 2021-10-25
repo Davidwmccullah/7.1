@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercise 07.1 - Construction and Testing
 ## CS4320/7320 Software Engineering
 
@@ -132,3 +133,6 @@ correct course are returned.
 ## Grading 
 
 We will run `pytest` in the directory with your tests. Please make sure that you remove both the example tests from 'PythonTutorial/Classes/example_test.py' and just 'example_test.py'. We will be looking for 5 total tests that pass and 10 total tests that fail. We will then review the code for each test to assure you created the tests correctly. You will be marked off for each test that does not work.
+=======
+# 7.1
+>>>>>>> e3b15189148c4f111dc97f0909d75d8dad74bac7
